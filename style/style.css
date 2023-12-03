@@ -145,7 +145,7 @@ nav {
 
   /*Portfolio*/
   #portfolio{
-    background: url(images/images-bold/pf-bg.png) no-repeat;
+    background: url('images/images-bold/pf-bg.png') no-repeat;
     background-size: cover;
 
   }
@@ -211,7 +211,7 @@ nav {
 /*Resume Styles*/
 
 #resume {
- background-image: url(images/images-bold/resume-bg.png);
+ background-image: url('images/images-bold/resume-bg.png');
  background-size: cover;
  background-repeat: no-repeat;
 }
