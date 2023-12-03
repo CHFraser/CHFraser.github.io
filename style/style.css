@@ -20,6 +20,8 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+p{font-size: 1.1em;}
+
 /*Hero Styles*/
 #top{
     font-family: 'Kdam Thmor Pro', sans-serif;
@@ -62,7 +64,7 @@ nav {
 
 
 #hero{
-    background-image: url('../images/images-bold/hero-bg.png');
+    background-image: url('images/images-bold/hero-bg.png');
     background-size: cover;
     background-repeat: no-repeat;   
     font-family:'Kdam Thmor Pro', sans-serif;
@@ -89,7 +91,7 @@ nav {
 /*Skills Section*/
 
 #skills{
-  background-image: url('../images/images-bold/skills-bg.png');
+  background-image: url('images/images-bold/skills-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -143,7 +145,7 @@ nav {
 
   /*Portfolio*/
   #portfolio{
-    background: url(../images/images-bold/pf-bg.png) no-repeat;
+    background: url(images/images-bold/pf-bg.png) no-repeat;
     background-size: cover;
 
   }
@@ -172,7 +174,7 @@ nav {
 /*About*/
 
 #about {
-  background-image: url('../images/images-bold/about-bg.png');
+  background-image: url('images/images-bold/about-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   text-shadow: 2px 2px #000;
@@ -209,7 +211,7 @@ nav {
 /*Resume Styles*/
 
 #resume {
- background-image: url(../images/images-bold/resume-bg.png);
+ background-image: url(images/images-bold/resume-bg.png);
  background-size: cover;
  background-repeat: no-repeat;
 }
