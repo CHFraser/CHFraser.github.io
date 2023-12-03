@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'Bildad';
-    src: url('images/assets/bildad-webfont.woff'),
+    src: url('/images/assets/bildad-webfont.woff'),
          url('..images/assets/bildad-webfont.woff2')   ;
 }
 
@@ -45,7 +45,7 @@ nav {
 
 /* Hero Styles */
 #hero {
-    background-image: url('images/images-dark/hero-bg.png');
+    background-image: url('/images/images-dark/hero-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -64,7 +64,7 @@ nav {
 }
 
 #hero .btn {
-    background-image: url(images/images-dark/hero-btn.jpg);
+    background-image: url('/images/images-dark/hero-btn.jpg');
     /*<a href="https://www.freepik.com/free-photo/dark-grunge-background-ideal-use-as-halloween-design_17560876.htm#query=red%20gothic%20background&position=4&from_view=keyword&track=ais&uuid=edb85bff-e042-4fc2-8314-4f0e2adbbce3">Image by kjpargeter</a> on Freepik*/
     background-repeat: no-repeat;
     background-size: 200px;
@@ -81,7 +81,7 @@ nav {
 }
 
 #top .btn {
-  background-image: url(images/images-dark/hero-btn.jpg);
+  background-image: url('/images/images-dark/hero-btn.jpg');
   /*<a href="https://www.freepik.com/free-photo/dark-grunge-background-ideal-use-as-halloween-design_17560876.htm#query=red%20gothic%20background&position=4&from_view=keyword&track=ais&uuid=edb85bff-e042-4fc2-8314-4f0e2adbbce3">Image by kjpargeter</a> on Freepik*/
   background-repeat: no-repeat;
   background-size: 200px;
@@ -99,7 +99,7 @@ nav {
 /*Skills Styles*/
 
 #skills {
-    background-image:  url('images/images-dark/skills-bg.png');
+    background-image:  url('/images/images-dark/skills-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -127,7 +127,7 @@ nav {
   /*Portfolio Styles*/
 
   #portfolio{
-    background-image: url(images/images-dark/portfolio-bg.png);
+    background-image: url('/images/images-dark/portfolio-bg.png');
     background-size: cover;
     background-position: center;
   }
@@ -174,7 +174,7 @@ nav {
 /*About Me Styles*/
 
 #about {
-    background-image: url('images/images-dark/about-bg.png');
+    background-image: url('/images/images-dark/about-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -2;
@@ -203,7 +203,7 @@ nav {
 
 /*Resume*/
 #resume {
-    background-image: url('images/images-dark/resume-bg.png');
+    background-image: url('/images/images-dark/resume-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'lifecraftregular';
-  src: url('images/assets/lifecraft/lifecraft_font-webfont.woff2') format('woff2'),
-       url('images/assets/lifecraft/lifecraft_font-webfont.woff') format('woff');
+  src: url('/images/assets/lifecraft/lifecraft_font-webfont.woff2') format('woff2'),
+       url('/images/assets/lifecraft/lifecraft_font-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -91,7 +91,7 @@ nav {
 }
 
 #hero {
-    background-image: url('images/images-fantasy/hero-img-fantasy.png');
+    background-image: url('/images/images-fantasy/hero-img-fantasy.png');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -100,7 +100,7 @@ nav {
 /* SKills Styles */
 
 #skills {
-    background-image: url(images/images-fantasy/skills-bg-fantasy.png);
+    background-image: url('/images/images-fantasy/skills-bg-fantasy.png');
     background-size: cover;
     background-position: center;
     text-shadow: 2px 2px #000;
@@ -139,7 +139,7 @@ nav {
   /* Portfolio Styles */
 
   #portfolio{
-    background-image: url(images/images-fantasy/portfolio-bg-fantasy.png);
+    background-image: url('/images/images-fantasy/portfolio-bg-fantasy.png');
     background-size: cover;
     background-position: center;
   }
@@ -184,7 +184,7 @@ nav {
   /*About Styles */
 
   #about {
-    background-image: url('images/images-fantasy/about-me-bg.jpg');
+    background-image: url('/images/images-fantasy/about-me-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -2;
@@ -218,7 +218,7 @@ nav {
 /* Resume */
 
 #resume {
-  background-image: url('images/images-fantasy/resume-fantasy-bg.png');
+  background-image: url('/images/images-fantasy/resume-fantasy-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
